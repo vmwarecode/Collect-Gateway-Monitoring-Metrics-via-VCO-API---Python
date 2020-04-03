@@ -1,1 +1,0 @@
-# Collect-Gateway-Monitoring-Metrics-via-VCO-API---Python
